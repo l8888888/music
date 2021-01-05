@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "apicache": "^1.4.0",
-    "axios": "^0.18.1",
+    "axios": "^0.21.1",
     "better-scroll": "^1.12.6",
     "fastclick": "^1.0.6",
     "good-storage": "^1.1.0",
