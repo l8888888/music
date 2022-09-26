@@ -15,7 +15,7 @@
     "good-storage": "^1.1.0",
     "http-proxy-middleware": "^0.19.1",
     "lyric-parser": "^1.0.1",
-    "pac-proxy-agent": "^3.0.0",
+    "pac-proxy-agent": "^5.0.0",
     "vue": "^2.5.22",
     "vue-lazyload": "^1.2.6",
     "vue-router": "^3.0.1",
